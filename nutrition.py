@@ -55,7 +55,7 @@ def get_nutrition_and_ingredients(sample_file):
                 "Dietary Fibre": "12.3 g",
                 "Total Fat": "17.3 g",
                 "Saturated Fat": "6.1 g",
-                "Trans Fat": "<0.1 g",
+                "Trans Fat": "0.1 g",
                 "Sodium": "571.3 mg"
             },
             "Ingredients": [
